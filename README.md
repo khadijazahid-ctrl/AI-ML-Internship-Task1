@@ -47,11 +47,11 @@ Learn how to load, inspect, and visualize a dataset using Pandas, Matplotlib, an
 
 ## Repository Structure
 
-AI-ML-Internship-Tasks/
+AI-ML-Internship-Task 1/
 ├── README.md
 ├── requirements.txt
 ├── Task1_Iris_Exploration.ipynb
-└── screenshots/
+└── screenshots
 
 ### Author
 
